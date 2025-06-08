@@ -5,3 +5,4 @@
 # graphcomponents result ![8F346DFB-F30F-45A9-A3EB-F30525491BE4](https://github.com/user-attachments/assets/790fe0a2-4310-4e3a-9a13-a82e694d69bf)
 # balanced brackets result ![129CF79D-5814-480D-8730-A632E8AB80F1](https://github.com/user-attachments/assets/383a2536-eece-4262-b610-bc60dd912f75)
 # castle on the grid result ![F44D7078-EE78-4703-A750-4ADF66619BCB](https://github.com/user-attachments/assets/e3180d15-6ec2-4dad-803b-afd057185423)
+# down to zero result ![CB4106DC-4213-48D2-BD47-00FC203016F7](https://github.com/user-attachments/assets/e084b8a6-07f6-4c35-b2a8-45a41a99cfab)
