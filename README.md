@@ -12,3 +12,4 @@
 # contacts result ![7D6FBEA2-8574-41E9-8878-D44B1723BB52](https://github.com/user-attachments/assets/ebe83b7e-b2c2-4288-be2d-46867c7355c3)
 # mr x and his shots result ![BE33378D-A916-441D-99E0-2629848366E8](https://github.com/user-attachments/assets/b2f937ea-5511-4041-8f65-f0a7300ef3e5)
 # find maximum index product result ![F71FF26F-F7FC-407A-B471-BDFD1D27DA55](https://github.com/user-attachments/assets/5327272e-6243-4c24-92f7-a967ea0c5f97)
+# is this a binary search tree result ![559983DA-07EC-4791-8FCB-639994613A5D](https://github.com/user-attachments/assets/9cdf2e66-1634-42d2-8c8d-7a5e443516a3)
