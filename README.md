@@ -4,3 +4,4 @@
 # queue using two stacks result <img width="814" alt="12841E52-8679-41F4-9894-DDCFF51BEB33" src="https://github.com/user-attachments/assets/8d79ec12-6401-428b-8a9f-91d0fe90a5a8" />
 # graphcomponents result ![8F346DFB-F30F-45A9-A3EB-F30525491BE4](https://github.com/user-attachments/assets/790fe0a2-4310-4e3a-9a13-a82e694d69bf)
 # balanced brackets result ![129CF79D-5814-480D-8730-A632E8AB80F1](https://github.com/user-attachments/assets/383a2536-eece-4262-b610-bc60dd912f75)
+# castle on the grid result ![F44D7078-EE78-4703-A750-4ADF66619BCB](https://github.com/user-attachments/assets/e3180d15-6ec2-4dad-803b-afd057185423)
