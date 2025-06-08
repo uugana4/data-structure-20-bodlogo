@@ -7,3 +7,4 @@
 # castle on the grid result ![F44D7078-EE78-4703-A750-4ADF66619BCB](https://github.com/user-attachments/assets/e3180d15-6ec2-4dad-803b-afd057185423)
 # down to zero result ![CB4106DC-4213-48D2-BD47-00FC203016F7](https://github.com/user-attachments/assets/e084b8a6-07f6-4c35-b2a8-45a41a99cfab)
 # game of two stacks result ![80184979-9B94-4765-94F4-3F1A1EF18D87](https://github.com/user-attachments/assets/71c694fd-8b79-4510-816e-cc154b8025c0)
+# largest rectangle result ![E65B40A8-2F1A-4E3E-B369-650027B55FBB](https://github.com/user-attachments/assets/6f9f24e2-a045-4eeb-821f-0738da6b30d2)
